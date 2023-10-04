@@ -1,4 +1,3 @@
-
 ## Update & Closing Note
 Due to confusing security notifications (via Dependabot) that tell me I need to upgrade certain "dependencies" from one version to the same version (as far as I can understand the reports!), which I have no idea how to do (beginning coder here!), I am going to try archiving this repository. I think my only other option is to delete it at this point, but I'd kind of like to preserve my history of work here. If anyone knows how I am supposed to address the Dependabot security alerts in a more constructive way, please send me a message! Thanks so much! 10/3/2023
 
@@ -20,3 +19,9 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+
+.
+.
+.
+
+This github slideshow can be viewed at: https://mmitsuyasu.github.io/github-slideshow/
