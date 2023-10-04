@@ -1,3 +1,12 @@
+
+## Update & Closing Note
+Due to confusing security notifications (via Dependabot) that tell me I need to upgrade certain "dependencies" from one version to the same version (as far as I can understand the reports!), which I have no idea how to do (beginning coder here!), I am going to try archiving this repository. I think my only other option is to delete it at this point, but I'd kind of like to preserve my history of work here. If anyone knows how I am supposed to address the Dependabot security alerts in a more constructive way, please send me a message! Thanks so much! 10/3/2023
+
+.
+.
+.
+.
+
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
